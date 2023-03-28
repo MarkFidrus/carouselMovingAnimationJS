@@ -1,3 +1,3 @@
-# carouselMovingAnimationJS
+# Moving carousel with mouse event
 
-I created this little project for testing and working out an animated carousel (to moving elements from carousel content) to my other project.
+A simple moving automatically moving carousel content with hover mouse event.
