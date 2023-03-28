@@ -1,0 +1,19 @@
+:root
+{
+    --start: 0;
+    --finish: 0;
+}
+
+.object
+{
+    position: absolute;
+    top: 500px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+
+@keyframes move {
+    to { left: var(--finish); }
+}
